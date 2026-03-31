@@ -55,7 +55,7 @@ export default function UsersPage() {
       <div className="bg-gray-900 border border-gray-800 rounded-xl p-6 w-full max-w-md flex flex-col gap-3">
 
         <p className="text-gray-400 text-sm font-semibold">
-          নতুন User যোগ করো
+          নতুন User যোগ করো eikhane
         </p>
 
         <input
